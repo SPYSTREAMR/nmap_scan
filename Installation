@@ -1,0 +1,4 @@
+git clone https://github.com/SPYSTREAMR/nmap_scan
+cd nmap_scan
+chmod +x scanning.sh
+./scanning.sh
